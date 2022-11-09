@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alobarros8/tendanostraissues"
   },
-  "homepage": "https://github.com/alobarros8/tendanostra#readme"
+  "homepage": "https://github.com/alobarros8/tendanostra#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
